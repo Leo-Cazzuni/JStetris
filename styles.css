@@ -1,0 +1,28 @@
+.fonteclass{
+  color:yellow;
+  font-family:'Turret Road',monospace;
+  font-size:30px;
+}
+
+h1,h2{
+  color:yellow;
+  font-family:'Turret Road',monospace;
+}
+
+#title{
+  text-align: center;
+}
+
+.nomedaclasse{
+  color: white;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+#descricao{
+  color: white;
+}
